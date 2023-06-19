@@ -1,4 +1,4 @@
-# Group 15 ECG Classification
+# ECG Classification
 
 Each notebook contains two models.
 Clustering is only done in the semi-supervised.
